@@ -1,4 +1,3 @@
-import Image from "next/image";
 import { Sites } from "./sites";
 
 export default function Home() {
