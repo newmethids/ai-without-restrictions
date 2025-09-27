@@ -3,10 +3,10 @@ type site = {
     link: string,
 }
 
-export const sitelist : site[] = [
+export const sitelist: site[] = [
     {
-    name: "Spicygen",
-    link: "https://spicygen.ai/?ref=mme3ytq"
+        name: "Spicygen",
+        link: "https://spicygen.ai/?ref=mme3ytq"
     },
     {
         name: "Promptchan",
@@ -19,5 +19,17 @@ export const sitelist : site[] = [
     {
         name: "Ourdream",
         link: "https://ourdream.ai/generate?ref=nsfwgen"
+    },
+    {
+        name: "GirlfriendGPT",
+        link: "https://t.mbsrv2.com/367665/7477?popUnder=true&aff_sub5=SF_006OG000004lmDN"
+    },
+    {
+        name: "CandyAI",
+        link: "https://t.mbsrv2.com/367665/6646?popUnder=true&aff_sub5=SF_006OG000004lmDN"
+    },
+    {
+        name: "Lovescape",
+        link: "https://t.mbsrv2.com/367665/7887?popUnder=true&aff_sub5=SF_006OG000004lmDN"
     }
 ]
