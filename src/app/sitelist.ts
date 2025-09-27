@@ -27,17 +27,22 @@ export const sitelist: site[] = [
     },
     {
         name: "GirlfriendGPT",
-        link: "https://t.mbsrv2.com/367665/7477?popUnder=true&aff_sub5=SF_006OG000004lmDN",
+        link: "https://t.mbsrv2.com/367665/7477?popUnder=false&aff_sub5=SF_006OG000004lmDN",
         description: "girlfriendgpt? chatgpt for girlfriends I guess "
     },
     {
         name: "CandyAI",
-        link: "https://t.mbsrv2.com/367665/6646?popUnder=true&aff_sub5=SF_006OG000004lmDN",
+        link: "https://t.mbsrv2.com/367665/6646?popUnder=false&aff_sub5=SF_006OG000004lmDN",
         description: "the og ai girlfriend app. "
     },
     {
+        name: "eHentai",
+        link: "https://t.mbsrv2.com/367665/6558?popUnder=false&aff_sub5=SF_006OG000004lmDN",
+        description: "for you weebs that are into anime girls, create your own ai waifu"
+    },
+    {
         name: "Lovescape",
-        link: "https://t.mbsrv2.com/367665/7887?popUnder=true&aff_sub5=SF_006OG000004lmDN",
+        link: "https://t.mbsrv2.com/367665/7887?popUnder=false&aff_sub5=SF_006OG000004lmDN",
         description: ""
     }
 ]
