@@ -40,6 +40,12 @@ export const sitelist: site[] = [
         link: "https://t.mbsrv2.com/367665/6558?popUnder=false&aff_sub5=SF_006OG000004lmDN",
         description: "for you weebs that are into anime girls, create your own ai waifu"
     },
+    ,
+    {
+        name: "Swipey",
+        link: "https://t.mbsrv2.com/367665/10100/0?aff_sub5=SF_006OG000004lmDN",
+        description: "imagine a social media site with only onlyfans girls, but theyre ai "
+    },
     {
         name: "Lovescape",
         link: "https://t.mbsrv2.com/367665/7887?popUnder=false&aff_sub5=SF_006OG000004lmDN",
